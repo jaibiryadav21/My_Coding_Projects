@@ -1,4 +1,4 @@
-# My Coding Projects 🚀
+# My Coding Projects(number guessing game) 🚀
 Welcome to my repository! This is where I document my journey learning Software Engineering.
 
  🕹️ Number Guessing Game (Python)
